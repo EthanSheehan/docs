@@ -1,5 +1,5 @@
 site_name: 'Bristol Flight Lab docs'
-theme: readthedocs
+theme: material
 
 plugins:
   - literate-nav:

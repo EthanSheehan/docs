@@ -6,7 +6,7 @@ It's hosted on the [Flight Lab's GitHub org](http://github.com/UoBFlightLab), an
 
 ```bash
 cd docs
-pip install mkdocs mkdocs-literate-nav
+pip install mkdocs-material
 mkdocs serve
 ```
 
