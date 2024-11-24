@@ -11,7 +11,7 @@ mkdocs serve
 
 Then open [http://127.0.0.1:8000](http://127.0.0.1:8000).
 
-## Docs structure
+## Navigation structure
 
 This MkDocs is configured to use [mkdocs-literate-nav](https://oprypin.github.io/mkdocs-literate-nav/) to pull nav and page ordering from a list in _index.md_ within each folder, like this:
 
