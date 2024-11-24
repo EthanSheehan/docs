@@ -1,0 +1,7 @@
+site_name: 'Bristol Flight Lab docs'
+theme: readthedocs
+
+plugins:
+  - literate-nav:
+       nav_file: index.md
+       implicit_index: true
