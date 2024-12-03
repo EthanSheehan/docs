@@ -1,7 +1,7 @@
 site_name: 'Bristol Flight Lab docs'
 theme: 
   name: material
-  logo: logo.png
+  logo: assets/logo.png
 plugins:
   - search
   - literate-nav:
