@@ -2,6 +2,7 @@ site_name: 'Bristol Flight Lab docs'
 theme: material
 
 plugins:
+  - search
   - literate-nav:
        nav_file: index.md
        implicit_index: true
