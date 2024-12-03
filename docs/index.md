@@ -16,4 +16,5 @@ Then open [http://127.0.0.1:8000](http://127.0.0.1:8000).
 This MkDocs is configured to use [mkdocs-literate-nav](https://oprypin.github.io/mkdocs-literate-nav/) to pull nav and page ordering from a list in _index.md_ within each folder, like this:
 
 - [Flight controller basics](flight-controller-basics/)
+- [RC switch conventions](conventions/)
 - [Example section](/example-section/)
