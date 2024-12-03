@@ -1,5 +1,6 @@
 site_name: 'Bristol Flight Lab docs'
-theme: material
+theme: 
+  name: material
   icon:
     logo: assets/logo.png
 plugins:
