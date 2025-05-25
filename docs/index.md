@@ -17,4 +17,5 @@ This MkDocs is configured to use [mkdocs-literate-nav](https://oprypin.github.io
 
 - [Flight controller basics](flight-controller-basics/)
 - [Conventions and standards](conventions/)
-- [Example section](/example-section/)
+- [Example section](example-section/)
+- [AVDASI 2](AVDASI-2/)
